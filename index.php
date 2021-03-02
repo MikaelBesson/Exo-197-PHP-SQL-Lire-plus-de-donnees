@@ -7,6 +7,9 @@
     <title>Exo complet lecture SQL.</title>
 </head>
 <body>
+<?php
+
+?>
 
 </body>
 </html>
